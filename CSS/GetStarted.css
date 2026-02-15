@@ -127,7 +127,7 @@ button:active::before {
     padding: 12px 25px;
     border-radius: 8px;
     cursor: pointer;
-    height: fit-content; /* عشان يتناسب مع ارتفاع الـ login box */
+    height: fit-content;
 }
 .signup-btn:hover {
     color: white;
